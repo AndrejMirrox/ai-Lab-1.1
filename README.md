@@ -1,1 +1,1 @@
-# ai-Lab-1
+# ai-Lab-1 Sotnikov Andrei
